@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ZRemoveAds</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello Bawa</string>
+    <string name="enable_buy">Enable Buy</string>
+    <string name="move_next">Move Next</string>
+    <string name="buy_item">Buy Item</string>
+    <string name="public_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgpoACTfoVAXrzqa7nzzFa2yxe9iQjCAPLdjtzMczIo5uNyq306VkRxWmaKoogoPHhn3MUhcs/ITTI526zzIgUmM611x1SJ+GvKrPv/pZjcVJQO+JNb3mlz5bWremHVOaJLJuTE513zzlAouqTBGznkt7fQeMCJlEG5kV3sGByzzIgFhFOas28vfPU6o2CeXW0NIUPFz9t13gRbqRA4GX32/zdVu9ayvGokRxpwmK0QfeH8v5NQz1VdbZu0gH3Vjc3zmxRS4sphcMMWKSp1s1jfWQ2jw+tVk5bdTUe/ws4McAbNXkakBqwT9CYHyZ/5C75NeNZgOpExHuQkNmmO0XXQIDAQAB</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_interstetail_ad">InterstetailAd</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
